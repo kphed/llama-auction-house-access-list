@@ -1,0 +1,14 @@
+{
+  "name": "llama-auction-house-access-list",
+  "version": "1.0.0",
+  "description": "Modified from: https://github.com/folia-app/eip-2929 (thank you Folia App team).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "ethers": "5.7"
+  },
+  "license": "ISC"
+}
